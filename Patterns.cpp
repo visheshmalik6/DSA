@@ -57,7 +57,7 @@ int main() {
 	}
 
 }
-// inverted pyramid
+// inverted pyramid number
 #include <bits/stdc++.h>
 using namespace std;
 
